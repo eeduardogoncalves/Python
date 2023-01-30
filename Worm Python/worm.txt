@@ -1,0 +1,1 @@
+Este código cria uma cópia de si mesmo em todos os drives disponíveis no sistema, mas por favor, lembre-se de que este código é apenas para fins educacionais, e nunca deve ser usado para tentar invadir ou danificar qualquer sistema.
