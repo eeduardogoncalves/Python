@@ -1,0 +1,11 @@
+import requests
+import json
+
+def search_cep():
+    cep = input("Insira o CEP a ser buscado: ")
+    url = f'https://viacep.com.br/ws/{cep}/json/'
+    response = requests.get(url)
+    data = json.loads(response.text)
+    return data
+
+print(search_cep())
